@@ -1,4 +1,5 @@
 # DSA-ASSIGNMENT-2
+
 Scholar Id- 2012158
 
 Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers played an important role. Hence, it is interesting to study how different representation formats impact the number representation and operations. In this experiment, we study the efficacy of various number representation formats. The central message of this experiment is to appreciate that something that is as common as operating on numbers has an embedded data structure lesson. In this experiment, we will first understand how operations such as addition and multiplication can be done in various formats. We focus on four formats: unary, binary, decimal, and Roman. In each of these four representation formats, we will learn how to perform the above two operations. You can look at the lecture notes, browse through slides, and also see an animation that can run several examples.
