@@ -1,6 +1,6 @@
 # DSA-ASSIGNMENT-2
 
-Scholar Id- 2012158
+SCHOLAR ID- 2012158
 
 Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers
 played an important role. Hence, it is interesting to study how different representation formats
